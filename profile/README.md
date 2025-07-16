@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to the Environmental Data Engineering and Science (envdes) Laboratory!
 
-🌍 **Established in 2022** by [Dr. Zhonghua Zheng](https://zhonghuazheng.com/), the **Environmental Data Engineering and Science (envdes) Lab** focuses on advancing both the **engineering** and **science** of environmental data.
+🌍 **Established in 2022** by [Dr. Zhonghua Zheng](https://zhonghuazheng.com/) at The University of Manchester (UK), the **Environmental Data Engineering and Science (envdes) Lab** focuses on advancing both the **engineering** and **science** of environmental data.
 
 We work at the interface of 🌫️ **air quality**, 🌆 **urban climate**, and 📊 **data-driven modelling**, aiming to develop open, actionable tools for a healthier and more sustainable planet.
 
